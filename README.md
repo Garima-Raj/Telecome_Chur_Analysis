@@ -1,6 +1,6 @@
 # Telecom Churn Analysis
 
-This project performs exploratory data analysis (EDA) on a telecom customer churn dataset using Python.
+This project performs exploratory data analysis (EDA) on a telecom customer churn dataset using Python
 
 ## Requirements
 - Python 3.x
